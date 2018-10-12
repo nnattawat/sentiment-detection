@@ -17,7 +17,7 @@ serverless deploy
 
 You will get function endpoint in the console
 
-### Execute yout function
+### Execute function
 ```
 # Replace $FUNCTION_URI with actual function URI endpoint
 # Replace $URI with actual image URI
